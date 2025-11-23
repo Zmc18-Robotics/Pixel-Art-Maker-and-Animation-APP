@@ -5,7 +5,7 @@ My app that really can make pixel art and animation, you can edit, import, expor
 
 to draw use right click, to erase it just left click it, easy!
 
-# here the pictures :
+# Here the pictures :
 
 You can make your own art here!
 <img width="959" height="503" alt="pict 1" src="https://github.com/user-attachments/assets/2794b94d-5dd9-4b03-b004-d48852512d63" />
