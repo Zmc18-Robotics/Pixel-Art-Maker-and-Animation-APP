@@ -32,6 +32,7 @@ You can make your own art here!
 <img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/b346f658-598a-4835-a5b9-c85bc777c87a" />
 
 You can save the art to the file location that you want!
+
 <img width="503" height="98" alt="image" src="https://github.com/user-attachments/assets/672722ad-a69e-46a2-907f-9b0fb75b211c" />
 
 You can make game assets here! its easy and simple to use!
